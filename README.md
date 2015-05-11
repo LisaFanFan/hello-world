@@ -1,8 +1,6 @@
 # hello-world
 learn how to use  github
 
-
-########### make a commit ################
 I have create a branch named readme-edit a few minutes ago. 
 Now I am updating readme.md file.  
 When I am done, I will make a commit.
